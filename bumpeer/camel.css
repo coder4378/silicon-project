@@ -1,0 +1,12 @@
+body{
+background-color: black;
+}
+.all{
+color: cyan;
+font-size: larger;
+font-weight: bolder;
+}
+.mark{
+    background-color: lightgreen;
+    color: darkgreen;
+    }
